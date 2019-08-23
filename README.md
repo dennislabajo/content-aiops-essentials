@@ -1,1 +1,1 @@
-# content-aiops-essentials
+# AI Ops
